@@ -1,3 +1,29 @@
+<html>
+<head><title>Rainbow Line</title>
+<style type="text/css">*{margin: 0;padding: 0;}
+	.rainbow{
+	width: 100%;
+	height: 8px;
+	background-repeat:repeat-x;
+	background: linear-gradient(to right, 
+	#eb5252, 
+	#f78f2f,
+	#f4c151,
+	#75d850, 
+	#6284FF, 
+	#eb5252
+ 	);
+	animation: rainbow 10s linear infinite;
+	background-size: 200% 100% !important;
+	}
+@keyframes rainbow{
+	0% {background-position: 0;}
+	100% {background-position: 800% 0;}
+	}
+</style>
+  </head>
+<body>
+  <div class="rainbow"></div>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joseph Hauter
 =====================================================================================================================================
 
@@ -30,7 +56,9 @@ Majoring in Computer Science with a math minor at Hunter College. Coding so far 
 
 <p align="left"> <a href="https://www.github.com/JosephHauter" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joseph-hauter-2a3240208/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+</body>
+</html>
+  ### Badges
 
 <b>My GitHub Stats</b>
 
