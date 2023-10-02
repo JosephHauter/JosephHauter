@@ -7,7 +7,7 @@ Software Engineer
 Majoring in Computer Science with a math minor at Hunter College. Coding so far has been an enjoyable experience 😁
 
 * 🌍  I'm based in New York
-* 🖥️  See my portfolio at [MyPortfolio](http://josephhauter.github.io/Portfolio-Website/)
+* 🖥️  See my portfolio at [MyPortfolio]([http://josephhauter.github.io/Portfolio-Website/](https://my-portfolio-one-plum.vercel.app/))
 * ✉️  You can contact me at [hauternoman@gmail.com](mailto:hauternoman@gmail.com)
 * 🧠  I'm learning Data Structures
 * 🤝  I'm open to collaborating on interesting projects
