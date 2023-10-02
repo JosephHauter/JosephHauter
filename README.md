@@ -8,7 +8,6 @@ I'm Joe a Computer Science major with a mathematics minor and a Software Enginee
 
 * 🌍  I'm based in New York City
 * 🖥️  See my portfolio at [MyPortfolio](http://my-portfolio-one-plum.vercel.app/)
-* ✉️  You can contact me at [hauterjoseph7@gmail.com](mailto:hauterjoseph7@gmail.com)
 * 🧠  I'm learning Data Structures and Algorithems
 * ⚡  I love to go to the gym, watch anime, play videogames :p
 
