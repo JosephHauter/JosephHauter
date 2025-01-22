@@ -7,7 +7,7 @@ Software Engineer
 I'm Joe a Computer Science major with a mathematics minor and a Software Engineer, I am passionate about using technology to drive innovation and make a positive impact in the world. In my current studies and past internships, I have gained experience in both Frontend Development and Backend Development.
 
 * 🌍  I'm based in New York City
-* 🖥️  See my portfolio at [MyPortfolio](http://my-portfolio-one-plum.vercel.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://josephhauter.vercel.app/)
 * 🧠  I'm learning Data Structures and Algorithems
 * ⚡  I love to go to the gym, watch anime, play videogames :p
 
